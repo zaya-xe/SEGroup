@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>
+SE Group
+</title>
+</head>
+
+<body>
+<h1>SE Practical</h1>
+<br> <br>
+<p>Created a git repository</p>
+</body>
+</html>
